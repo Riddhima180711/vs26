@@ -1,0 +1,36 @@
+body{
+    background-color:rgba(229, 255, 0, 0.651);
+}
+
+.heading{
+    font-size: 50px;
+    color:rgb(255, 0, 0);
+    font-family: 'Dancing Script', cursive;
+}
+
+#head-2,label{
+    font-size: 22px;
+    color:rgb(0, 255, 0);
+    font-family: 'Pacifico', cursive;
+}
+
+.name_of_objects{
+    color:rgb(0, 204, 255);
+    font-family: 'Indie Flower', cursive;
+}
+
+.btn-capture{
+    background-color:rgb(83, 71, 255);
+    color: black;
+    font-family: 'Great Vibes', cursive;
+}
+
+.btn-check{
+    color: rgb(0, 0, 0);
+    font-family: 'Great Vibes', cursive;
+}
+
+p{
+    color:rgb(255, 0, 242);
+    font-family: 'Comforter', cursive;
+}
